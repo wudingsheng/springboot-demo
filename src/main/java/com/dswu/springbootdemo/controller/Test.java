@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Test {
     @GetMapping("test")
     public String Test(){
+        System.out.println("12321");
         return "k8s_CICD_V1.0";
     }
 }
