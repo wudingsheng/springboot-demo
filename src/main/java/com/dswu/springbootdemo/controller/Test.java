@@ -11,6 +11,7 @@ public class Test {
     public String Test(){
         System.out.println("12321");
 
-        return "k8s_CICD_V3.0" ;
+
+        return "k8s_CICD_V4444.0" ;
     }
 }
